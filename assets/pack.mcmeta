@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 7,
+		"description": "Malagasy language pack"
+	},
+	"language": {
+		"mg_mg": {
+			"name": "Malagasy",
+			"region": "Madagascar",
+			"bidirectional": "false"
+		}
+	}
+}
