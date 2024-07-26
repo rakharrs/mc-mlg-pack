@@ -2388,6 +2388,8 @@
   "mco.time.daysAgo": "%1$s day(s) ago",
   "mco.warning": "Warning!",
   "mco.worldSlot.minigame": "Minigame",
+
+
   "menu.convertingLevel": "Converting world",
   "menu.disconnect": "Disconnect",
   "menu.game": "Game Menu",
@@ -2415,6 +2417,9 @@
   "menu.shareToLan": "Open to LAN",
   "menu.singleplayer": "Singleplayer",
   "menu.working": "Working...",
+
+
+  
   "merchant.current_level": "Trader's current level",
   "merchant.deprecated": "Villagers restock up to two times per day.",
   "merchant.level.1": "Novice",
